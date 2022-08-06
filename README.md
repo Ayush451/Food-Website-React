@@ -11,7 +11,7 @@ In order to run this application you need do the following:
 4) The Project should run in a localhost :)
 
 <b>What I have used in this application </b>
-1) React library (states, props, useState, useEffects, onclick functions)
+1) React library (states, props, useState, useEffects, onclick functions, Routes,)
 2) SCSS for the styling and animation (custom variables, css styling, styling for each section)
 
 
